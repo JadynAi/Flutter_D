@@ -1,4 +1,4 @@
-package com.example.Flutter_D
+package com.jadyn.flutter_d
 
 import io.flutter.embedding.android.FlutterActivity
 
